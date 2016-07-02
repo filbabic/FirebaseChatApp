@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="main_activity_email_edit_text" type="id" />
+    <item name="main_activity_password_edit_text" type="id" />
+    <item name="main_activity_login_button" type="id" />
+    <item name="main_activity_coordinator_layout" type="id" />
+    <item name="main_activity_register_text_view" type="id" />
+
+    <item name="chat_message_image_view" type="id" />
+    <item name="chat_message_author_text_view" type="id" />
+    <item name="chat_message_message_text_view" type="id" />
+
+    <item name="chat_activity_chat_recycler_view" type="id" />
+    <item name="chat_activity_chat_message_input_edit_text" type="id" />
+    <item name="chat_activity_chat_send_message_button" type="id" />
+
+    <item name="register_activity_frame_layout" type="id" />
+    <item name="register_user_coordinator_layout" type="id" />
+    <item name="register_user_email_edit_text" type="id" />
+    <item name="register_user_password_edit_text" type="id" />
+    <item name="register_user_reenter_password_edit_text" type="id" />
+    <item name="register_user_create_account_button" type="id" />
+
+    <item name="choose_username_coordinator_layout" type="id"/>
+    <item name="choose_username_edit_text" type="id" />
+    <item name="choose_username_button" type="id" />
+    <item name="skip_username_choice_button" type="id" />
+    <item name="progress_bar" type="id" />
+</resources>

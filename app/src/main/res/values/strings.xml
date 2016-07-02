@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChatAppV2</string>
+    <string name="main_activity_login_button_text">Log in</string>
+    <string name="email_edit_text_hint">Your e-mail</string>
+    <string name="password_edit_text_hint">Your password</string>
+    <string name="your_username_hint">Your username</string>
+    <string name="repeat_password_edit_text_hint">Re-enter your password</string>
+    <string name="main_activity_register_text_view_text">Don\'t have an account? Register now!</string>
+    <string name="login_failed_error_message">Login attempt failed.</string>
+    <string name="login_successful_message">Login successful!</string>
+    <string name="notification_message">"New message from: %1$s "</string>
+    <string name="email_or_password_empty_error_message">Email and password cannot be empty!</string>
+    <string name="account_creation_failed_error_message">Account details are invalid, or taken!</string>
+    <string name="register_activity_account_details_text_view_message">Choose your account e-mail and password, and keep them safe!</string>
+    <string name="register_activity_create_account_button_text">Create account</string>
+    <string name="passwords_do_not_match_error_message">Passwords do not match, and/or are empty!</string>
+    <string name="random_username_generator_string_template">User %1$d</string>
+    <string name="username_dialog_fragment_choose_username_text">Choose the username to display you, or cancel and we will generate one for you!</string>
+    <string name="choose_username_button_text">Choose</string>
+    <string name="skip_this_username_button_text">Skip this</string>
+    <string name="choose_username_dialog_title">Choose your username</string>
+    <string name="empty_message_error">Message cannot be empty!</string>
+    <string name="username_chosen_is_empty_error">If you choose your own username, it cannot be empty!</string>
+</resources>
